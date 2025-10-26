@@ -1,8 +1,7 @@
-# GBTSVM
-Granular Ball Twin Support Vector Machine
+# GBTSVM: Granular Ball Twin Support Vector Machine
 
 Please cite the following paper if you are using this code.
-Reference: A. Quadir, M. Sajid, M. Tanveer (2024). Granular Ball Twin Support Vector Machine, IEEE Transactions on Neural Networks and Learning Systems (In Revision). 
+Reference: A. Quadir, M. Sajid and M. Tanveer, "Granular Ball Twin Support Vector Machine," in IEEE Transactions on Neural Networks and Learning Systems, vol. 36, no. 7, pp. 12444-12453, July 2025, doi: 10.1109/TNNLS.2024.3476391.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 The experiments are executed on a computing system possessing Python 3.11 software, an Intel(R) Xeon(R) CPU E5-2697 v4 processor operating at 2.30 GHz with 128-GB Random Access Memory (RAM), and a Windows-10 operating platform.
